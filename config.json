@@ -1,8 +1,8 @@
 {
     "captcha_service": "capmonster/2captcha",
     "captcha_api_key": "",
-    "invite": "Invite / InviteCode",
-    "joinDelay": 3000,
+    "invite": "https://discord.gg/PfccAjSAc",
+    "joinDelay": 1500,
     "useProxies": false,
     "boost": {
         "enabled": false,
